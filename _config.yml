@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Georgy Savva # the website title (if blank, full name will be used instead)
 first_name: Georgy
 last_name: Savva
 email: georgy.savva@gmail.com
@@ -12,7 +12,7 @@ footer_text:
 keywords: Georgy Savva, georgysavva # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: icon.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://georgysavva.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -44,7 +44,7 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
@@ -65,7 +65,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: georgysavva # your GitHub user name
 gitlab_username: # your GitLab user name
-x_username: # your X handle
+x_username: georgysavva # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: georgysavva # your LinkedIn user name
 telegram_username: # your Telegram user name
