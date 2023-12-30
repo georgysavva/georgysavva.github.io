@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://georgysavva.github.io/al-folio/sitemap.xml
+Sitemap: https://georgysavva.github.io/sitemap.xml
