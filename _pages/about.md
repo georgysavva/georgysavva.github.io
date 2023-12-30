@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:
 
 profile:
   align: right
@@ -22,8 +22,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your BIO here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an aspiring computer science scholar applying to grad school in the Fall of 2024. I am passionate about machine learning. Specifically, my goal is to study and advance reinforcement learning and how it can be reliably used in uncontrolled environments like autonomous vehicles, embodied AI, and complex video games.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received my Bachelor's in Computer Science from the Russian University of Cooperation in 2021. I have seven years of experience working as a software engineer in industry, focusing on backend engineering, distributed systems, and databases. I was a founding engineer at [Edwin.ai](https://www.ycombinator.com/companies/edwin), a YC-backed EdTech startup. I am the author of a popular open-source library [Scany](https://github.com/georgysavva/scany) and the former co-founder of a B2C startup [Scifind](https://twitter.com/sci_find). I have self-taught foundations in the following machine learning domains: reinforcement learning, NLP, and computer vision.
