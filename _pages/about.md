@@ -22,6 +22,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a first-year Master's student in Computer Science at NYU Courant Institute of Mathematical Sciences. I do research in machine learning at the CILVR lab advised by Prof. [Lerrel Pinto](https://www.lerrelpinto.com/).   My research interests lie in multimodal learning, representation learning, reinforcement learning, and intelligent agents.
+I am a first-year Master's student in Computer Science at NYU Courant Institute of Mathematical Sciences. I work with Prof. [Lerrel Pinto](https://www.lerrelpinto.com/) at the CILVR lab. My research interests lie in multimodal learning, representation learning, reinforcement learning, and intelligent agents.
 
 I received my Bachelor's in Computer Science from the Russian University of Cooperation in 2021. I have eight years of experience working as a software engineer in industry, focusing on backend engineering, distributed systems, databases, and Python. I am an ex-founding engineer at [Edwin.ai](https://www.ycombinator.com/companies/edwin), a Y Combinator-backed EdTech startup. I am the author of an open-source library [Scany](https://github.com/georgysavva/scany) and the former technical co-founder of a troubleshooting platform for bioscientists [Scifind](https://twitter.com/sci_find).
