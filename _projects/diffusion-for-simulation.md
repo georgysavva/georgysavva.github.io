@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Transformer-Based Diffusion for Game Generation
-description: 
-img:
+title: Diffusion for Simulation 
+description: Transformer-Based Diffusion for Game Generation
+img: assets/img/diffusion_for_simulation/preview.png
 importance: 1
 ---
 

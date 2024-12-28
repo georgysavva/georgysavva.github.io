@@ -5,7 +5,7 @@ permalink: /projects/
 description: ""
 nav: true
 nav_order: 3
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
