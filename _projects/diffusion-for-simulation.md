@@ -27,4 +27,4 @@ up to 32.21, VG models show better stability in
 autoregressive generation, suggesting important
 tradeoffs between model architecture and performance.
 
-[[Final Report]](assets/pdf/Diffusion_for_Simulation.pdf) [[Code]](https://github.com/georgysavva/diffusion-for-simulation)
+You can find the details about our findings in the [final report](/assets/pdf/Diffusion_for_Simulation.pdf) and see our code [here](https://github.com/georgysavva/diffusion-for-simulation).
