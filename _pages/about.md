@@ -8,7 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info:
+  more_info: "georgy.savva@nyu.edu
+  New York, NY, United States"
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
