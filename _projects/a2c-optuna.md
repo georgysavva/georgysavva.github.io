@@ -54,11 +54,11 @@ Below is the set of hyperparameter values found by Optuna to train our policy.
 | -------- | ------- | -------       | -------   | -------   | -------            | ------- | -------              | -------     | -------   | -------         |
 | **Ours** | 0.99    | 1.0e-3       | 1.0        | 1.0      | 50                  | 25,000 | true                   | true       | 3         | 256             |
 
-And here is the training curve for the average episode return of our policy.
+And here is the curve for the average evaluation return of our policy during training.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/a2c_optuna/return_figure.png" title="return figure" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/a2c_optuna/average_return.png" title="average return" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
