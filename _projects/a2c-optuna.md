@@ -21,7 +21,8 @@ It's trained to predict 6-dimensional action output.
 The training consists of training two networks: actor and critic.
 The actor learns to map states to actions, and the critic learns to predict the expected return from a given state.
 We use Generalized Advantage Estimation ([GAE](https://arxiv.org/abs/1506.02438)) for advantage calculation, with normalized advantages.
-Optuna uses the Bayesian optimization algorithm to search for the best set of hyperparameters. We search among these: model size, discount, learning rate, generalized advantage estimate lambda, temporal difference lambda, baseline gradient steps, and batch size.
+
+Optuna uses the Bayesian optimization algorithm to search for the best set of hyperparameters. It selects a set of hyperparameter values from the pool of available values, which forms a trial. It then prunes and finds the best trial based on the average evaluation return. We search among the following hyperparameters: model size, discount, learning rate, generalized advantage estimate lambda, temporal difference lambda, baseline gradient steps, and batch size.
 
 ## Results
 
