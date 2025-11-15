@@ -3,7 +3,7 @@ layout: page
 title: A2C Optuna
 description: Advantage Actor-Critic with Optuna
 img: assets/img/a2c_optuna/preview.jpeg
-importance: 2
+importance: 3
 ---
 
 [![Code](https://img.shields.io/badge/Code-GitHub-blue?logo=github)](https://github.com/georgysavva/a2c-optuna)

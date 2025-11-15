@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Diffusion for Simulation 
+title: DiT for Game Simulation 
 description: Transformer-Based Diffusion for Game Generation
-img: assets/img/diffusion_for_simulation/preview.png
-importance: 1
+img: assets/img/dit_for_game_simulation/preview.png
+importance: 2
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/diffusion_for_simulation/sfg-b4-concat-teacherforcing.gif" title="simulated trajectory" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/dit_for_game_simulation/sfg-b4-concat-teacherforcing.gif" title="simulated trajectory" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -27,4 +27,4 @@ up to 32.21, VG models show better stability in
 autoregressive generation, suggesting important
 tradeoffs between model architecture and performance.
 
-You can find the details about our findings in the [final report](/assets/pdf/Diffusion_for_Simulation.pdf) and see our code [here](https://github.com/georgysavva/diffusion-for-simulation).
+You can find the details about our findings in the [final report](/assets/pdf/DiT_for_Game_Simulation.pdf) and see our code [here](https://github.com/georgysavva/dit-for-game-simulation).
