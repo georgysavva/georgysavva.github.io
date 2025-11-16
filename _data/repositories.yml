@@ -1,2 +1,3 @@
 github_repos:
   - georgysavva/scany
+  - georgysavva/fsdp-in-jax-nnx
