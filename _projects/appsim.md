@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AppSim
-description: AppSim: A Learned World Model for an App API
+description: "AppSim: A Learned World Model for an App API"
 img: assets/img/appsim/preview.png
 importance: 3
 ---
