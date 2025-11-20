@@ -1,7 +1,7 @@
 ---
 layout: page
 title: World Model Finetuning Analysis
-description: Analyzing Finetuning or Pretrained World Models
+description: Do Pre-Trained and Fine-Tuned World Models Generalize?
 img: assets/img/world-model-finetuning-analysis/preview.png
 importance: 1
 ---
