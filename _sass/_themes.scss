@@ -4,12 +4,16 @@
 
 :root {
   --global-bg-color: #{$white-color};
-  --global-code-bg-color: #{$code-bg-color-light};
+  --global-code-bg-color: #{$grey-color-light-custom};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$purple-color};
-  --global-hover-color: #{$purple-color};
+  --global-theme-color: #{$black-color};
+  --global-hover-color: #{$black-color};
   --global-hover-text-color: #{$white-color};
+  // Link colors (use classic browser defaults instead of theme accent)
+  --global-link-color: #{$blue-link-color};
+  --global-link-hover-color: #{$blue-link-color};
+  --global-link-visited-color: #{$blue-link-color};
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
   --global-footer-link-color: #{$white-color};
@@ -52,9 +56,13 @@ html[data-theme='dark'] {
   --global-code-bg-color: #{$code-bg-color-dark};
   --global-text-color: #{$grey-color-light};
   --global-text-color-light: #{$grey-color-light};
-  --global-theme-color: #{$cyan-color};
-  --global-hover-color: #{$cyan-color};
+  --global-theme-color: #{$white-color};
+  --global-hover-color: #{$white-color};
   --global-hover-text-color: #{$white-color};
+  // Link colors (use classic browser defaults instead of theme accent)
+  --global-link-color: #{$blue-link-color-dark};
+  --global-link-hover-color: #{$blue-link-color-dark};
+  --global-link-visited-color: #{$blue-link-color-dark};
   --global-footer-bg-color: #{$grey-color-light};
   --global-footer-text-color: #{$grey-color-dark};
   --global-footer-link-color: #{$black-color};

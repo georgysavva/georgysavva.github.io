@@ -26,9 +26,12 @@ d-article {
     border-bottom-color: var(--global-divider-color) !important;
   }
   a {
-    color: var(--global-theme-color) !important;
+    color: var(--global-link-color) !important;
+    &:visited {
+      color: var(--global-link-visited-color) !important;
+    }
     &:hover {
-      color: var(--global-theme-color) !important;
+      color: var(--global-link-hover-color) !important;
     }
   }
   b i {

@@ -33,13 +33,16 @@ table {
     font-weight: bold;
   }
 }
-
 a,
 table.table a {
-  color: var(--global-theme-color);
+  color: var(--global-link-color);
+
+  &:visited {
+    color: var(--global-link-visited-color);
+  }
 
   &:hover {
-    color: var(--global-theme-color);
+    color: var(--global-link-hover-color);
     text-decoration: underline;
   }
 
@@ -569,7 +572,10 @@ footer.sticky-bottom {
     }
 
     &.active .page-link {
-      color: $white-color;
+      // Use the current theme background as the contrast color for the theme-colored active page.
+      // Light theme: bg is white -> white text on black active background.
+      // Dark theme: bg is dark  -> dark text on white active background.
+      color: var(--global-bg-color);
       background-color: var(--global-theme-color);
 
       &:hover {
