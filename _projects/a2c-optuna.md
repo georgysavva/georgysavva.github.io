@@ -37,7 +37,7 @@ Our model performs `24%` better than the sb3-a2c. Below are the policies' trajec
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/a2c_optuna/policy_rollout" title="our policy rollout" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/a2c_optuna/policy_rollout.gif" title="our policy rollout" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/a2c_optuna/sb3_a2c_rollout.gif" title="s3b-a2c policy rollout" class="img-fluid rounded z-depth-1" %}
