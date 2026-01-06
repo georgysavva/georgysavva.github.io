@@ -28,3 +28,14 @@ autoregressive generation, suggesting important
 tradeoffs between model architecture and performance.
 
 You can find the details about our findings in the [final report](/assets/pdf/DiT_for_Game_Simulation.pdf) and see our code [here](https://github.com/georgysavva/dit-for-game-simulation).
+
+## Citation
+
+```text
+@article{savva2024ditforsim,
+      title={Transformer-Based Diffusion for Game Generation},
+      author={Georgy Savva and Jack Lu and Betty Li Hou},
+      year={2024},
+      url={https://georgysavva.github.io/projects/dit-for-game-simulation/},
+}
+```

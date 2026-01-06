@@ -9,3 +9,14 @@ importance: 1
 This work investigates the generalization capabilities of two diffusion-based world models, OASIS and WorldMem within the Minecraft environment. OASIS is trained from scratch on the diverse VPT dataset, while WorldMem is a finetuned version of OASIS on a simpler, randomly generated dataset. The models are evaluated on three distinct datasets, VPT, WorldMem, and a custom-designed Consistency dataset, each representing a different distribution of the environment. Quantitative analysis using PSNR scores and qualitative video comparisons show that both models struggle to generalize beyond their training distributions, with fine-tuning also leading to catastrophic forgetting of the pretrained distribution. These findings reveal the limitations of the current world models in adapting to varied distributions and suggest that combining datasets for fine-tuning is necessary to preserve and extend the model’s performance.
 
 You can find the details about our findings in the [final report](/assets/pdf/World_Model_Pretrain_Finetune_Analysis.pdf).
+
+## Citation
+
+```text
+@article{savva2025pretrainedfinetunedworldmodels,
+      title={Do Pre-Trained and Fine-Tuned World Models Generalize?},
+      author={Georgy Savva},
+      year={2025},
+      url={https://georgysavva.github.io/projects/world-model-finetuning-analysis/},
+}
+```

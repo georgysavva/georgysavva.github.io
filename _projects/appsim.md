@@ -11,3 +11,15 @@ We present AppSim, a family of learned world models for API simulation. Building
 we finetune a TinyLlama model on a custom dataset of synthetic trajectories from the AppWorld engine, combining semi-random API exploration with ChatGPT-driven user requests. In the second, we use a powerful off-the-shelf LLM in a zero-shot setting. Evaluating on heldout trajectories using object-match accuracy, BLEU, and ROUGE, we find that the general-purpose LLMs exhibit superior performance.
 
 You can find the details about our findings in the [final report](/assets/pdf/AppSim.pdf) and see our code [here](https://github.com/georgysavva/appsim).
+
+
+## Citation
+
+```text
+@article{savva2025appsim,
+      title={AppSim: A Learned World Model for an App API},
+      author={Georgy Savva and Garvit Luhadia},
+      year={2025},
+      url={https://georgysavva.github.io/projects/appsim/},
+}
+```

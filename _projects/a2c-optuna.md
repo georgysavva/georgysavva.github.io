@@ -70,3 +70,15 @@ By fine-tuning key parameters of the Advantage Actor-Critic (A2C) algorithm, we 
 
 Our approach leverages Bayesian optimization to systematically explore the hyperparameter space, resulting in a robust policy that outperforms the baseline both quantitatively and qualitatively, as evident from the higher stability and speed observed in trajectory rollouts.
 This highlights the potential of automated hyperparameter search frameworks like Optuna to streamline the development of efficient reinforcement learning models for complex tasks.
+
+
+## Citation
+
+```text
+@article{savva2024a2coptuna,
+      title={Advantage Actor-Critic with Optuna},
+      author={Georgy Savva},
+      year={2024},
+      url={https://georgysavva.github.io/projects/a2c-optuna/},
+}
+```
