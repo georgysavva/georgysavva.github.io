@@ -44,6 +44,19 @@ layout: default
           <div class="clearfix">
             {{ content }}
           </div>
+              <!-- Personal -->
+          {% if page.personal -%}
+            <div class="personal">
+              <h2>Me</h2>
+              <p>
+                I live in New York City. Outside of work, I like exploring new areas around the city on my fixie <a href="assets/img/bike.png">bike</a> and 
+                ranking saunas (<a href="https://www.spa88.com/">Spa88</a> and <a href="https://www.abathhouse.com/">Bathhouse</a> are at the top). 
+                I love extreme sports. I recently tried downhill mountain biking, but freeride snowboarding is my all-time favorite, and I will soon be going on my first cat skiing trip. 
+                I also enjoy reading creative nonfiction memoirs (<a href="https://www.goodreads.com/book/show/7445.The_Glass_Castle">The Glass Castle</a>, <a href="https://www.goodreads.com/book/show/35133922-educated">Educated</a>) 
+                and writing <a href="https://medium.com/@georgysavva/the-discovery-of-stamba-hotel-d98edc634c62">stories</a>.
+              </p>
+            </div>
+          {%- endif %}
 
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
