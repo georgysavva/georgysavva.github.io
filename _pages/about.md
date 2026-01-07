@@ -14,6 +14,7 @@ news: false
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+personal: true
 ---
 I am a second-year Master's student in Computer Science at NYU Courant Institute of Mathematical Sciences. I work on generative AI advised by Prof. [Saining Xie](https://www.sainingxie.com/). My research interests lie in world models, representation learning, digital agents, and multimodal learning.
 
