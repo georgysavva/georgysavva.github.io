@@ -3,6 +3,7 @@ layout: page
 title: DiT for Game Simulation 
 description: Transformer-Based Diffusion for Game Generation
 img: assets/img/dit_for_game_simulation/preview.png
+og_image: assets/img/dit_for_game_simulation/preview.png
 importance: 2
 ---
 

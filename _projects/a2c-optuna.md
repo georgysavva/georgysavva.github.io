@@ -3,6 +3,7 @@ layout: page
 title: A2C Optuna
 description: Advantage Actor-Critic with Optuna
 img: assets/img/a2c_optuna/preview.jpeg
+og_image: assets/img/a2c_optuna/preview.jpeg
 importance: 4
 ---
 
