@@ -17,6 +17,6 @@ social: true # includes social icons at the bottom of the page
 personal: true
 ---
 
-I am a research assistant at NYU Courant where I received my MSCS. I work on generative AI advised by Prof. [Saining Xie](https://www.sainingxie.com/). My research interests lie in world models, representation learning, digital agents, and multimodal learning.
+I am a research assistant at NYU Courant where, I received my MSCS. I work on generative AI advised by Prof. [Saining Xie](https://www.sainingxie.com/). My research interests lie in world models, representation learning, digital agents, and multimodal learning.
 
 Previously, I interned with Prof. [Lerrel Pinto](https://www.lerrelpinto.com/) working on robot learning at the NYU CILVR lab. Before that, I spent eight years in industry as a software engineer, specializing in backend engineering and distributed systems. I was a founding engineer at [Edwin](https://www.ycombinator.com/companies/edwin), a Y Combinator-backed EdTech startup. Additionally, I created an open-source library [Scany](https://github.com/georgysavva/scany) and served as the technical co-founder of [Scifind](https://www.linkedin.com/company/scifind/), a troubleshooting platform for bioscientists. I received my Bachelor's in Computer Science from the Russian University of Cooperation.
