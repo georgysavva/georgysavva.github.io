@@ -1,4 +1,5 @@
 github_repos:
+  - solaris-wm/solaris
   - solaris-wm/solaris-engine
   - georgysavva/scany
   - georgysavva/fsdp-in-jax-nnx
