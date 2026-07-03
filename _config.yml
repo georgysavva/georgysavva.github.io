@@ -5,7 +5,7 @@
 title: Georgy Savva # the website title (if blank, full name will be used instead)
 first_name: Georgy
 last_name: Savva
-email: georgy.savva@nyu.edu
+email: georgy@runwayml.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website.
 footer_text:
